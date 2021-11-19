@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrykApp", "DrykApp.csproj", "{993342B5-FDAC-47B9-9B3D-83185DF02281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993342B5-FDAC-47B9-9B3D-83185DF02281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993342B5-FDAC-47B9-9B3D-83185DF02281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993342B5-FDAC-47B9-9B3D-83185DF02281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993342B5-FDAC-47B9-9B3D-83185DF02281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BFEEFA2-9E60-4E0E-A6FF-F0916606FADA}
+	EndGlobalSection
+EndGlobal
